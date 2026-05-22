@@ -416,13 +416,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Image hosting by Cloudinary
 
 ---
-
-<div align="center">
-
-**Made with ❤️ for writers and readers everywhere**
-
-[⬆ Back to Top](#-writespace---modern-mern-blogging-platform)
-
-</div>
-#   W r i t e S p a c e  
- 
